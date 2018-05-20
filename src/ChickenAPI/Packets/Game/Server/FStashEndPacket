@@ -1,0 +1,8 @@
+namespace ChickenAPI.Packets.Game.Server
+{
+    [PacketHeader("f_stash_end")]
+    public class FStashEndPacket : PacketBase
+     {
+     // Useless
+     }
+}
