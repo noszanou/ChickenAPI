@@ -1,4 +1,4 @@
-namespace ChickenAPI.Packets.Game.Server
+namespace ChickenAPI.Packets.ServerPackets
 {
     [PacketHeader("f_stash_end")]
     public class FStashEndPacket : PacketBase
