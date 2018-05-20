@@ -1,0 +1,13 @@
+using ChickenAPI.Enums.Game.Entity;
+using ChickenAPI.Enums.Packets;
+
+namespace ChickenAPI.Packets.Game.Server
+{
+    [PacketHeader("snap")]
+    public class SnapPacket : PacketBase
+    {
+        #region Properties
+        // Useless
+        #endregion
+    }
+}
