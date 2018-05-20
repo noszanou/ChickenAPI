@@ -1,4 +1,4 @@
-namespace ChickenAPI.Packets.Game.Server
+namespace ChickenAPI.Packets.ServerPackets
 {
     [PacketHeader("lbs")]
     public class LbsPacket : PacketBase
